@@ -1,1 +1,1 @@
-Classic pong game made in python
+Classic pong game made in python.
